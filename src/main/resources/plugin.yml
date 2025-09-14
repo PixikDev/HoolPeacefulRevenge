@@ -1,0 +1,6 @@
+name: HoolPeacefulRevenge
+version: '${project.version}'
+main: pixik.ru.hoolpeacefulrevenge.HoolPeacefulRevenge
+api-version: '1.21'
+author: PixikDev
+description: Мирные мобы мстят за атаки и дают больше лута
